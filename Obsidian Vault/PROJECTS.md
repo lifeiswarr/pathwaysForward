@@ -1,0 +1,2 @@
+  - [ ] [[🔍 Project Tasklist (LinkedIn Competitor Analysis & Email Notification System)]]
+  - [ ] 
