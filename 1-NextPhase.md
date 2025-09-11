@@ -1,0 +1,32 @@
+- [x] update py
+- [x] import the modules to vs
+- [x] and check for every thing
+- [ ] OCI #asap
+- [ ] pipeline
+- [ ] data science
+- [ ] artifacts
+- [ ] git 
+- [ ] LLM
+- [ ] API integration
+- [ ] NLP
+- [ ] semantic search
+- [ ] doc classification
+- [ ] info extraction
+- [ ] Langchain #asap  
+- [ ] LangGraph #asap 
+- [ ] AutoGen
+- [ ] vectorDB
+- [ ] functional approximation(nerual networks)
+- [ ] RAG #toppriority 
+- [ ] gemini cli
+- [ ] language model
+- [ ] learning rate
+- [ ] gradient clipping,
+- [ ] reward clipping, 
+- [ ] prioritized replay,
+- [ ] double DQN,
+- [ ] dueling networks, 
+- [ ] multi-step returns,
+- [ ] distributional RL (Rainbow
+- [ ] kafka
+- [ ] redis
